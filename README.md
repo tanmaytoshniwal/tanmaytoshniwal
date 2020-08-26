@@ -21,11 +21,9 @@
 
 
 <div><p>My profile overview: </p></div>
-[![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaytoshniwal)](https://github.com/tanmaytoshniwal/tanmaytoshniwal)
+![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaytoshniwal&show_icons=true&theme=radical)
 
 
-<br />
-<br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanmaytoshniwal.tanmaytoshniwal)
 
