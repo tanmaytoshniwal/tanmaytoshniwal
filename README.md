@@ -19,4 +19,13 @@
 - A Computer Engineering Undergraduate Student. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
+
+<div><p>My profile overview: </p></div>
+![Tanmay's github stats](https://github-readme-stats.vercel.app/api?username=tanmaytoshniwal&show_icons=true)
+<br />
+<br />
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+
+
 ⭐️ From [TanmayToshniwal](https://github.com/tanmaytoshniwal)
