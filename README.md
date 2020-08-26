@@ -21,7 +21,7 @@
 
 
 
-## My GitHub Stats-
+### My GitHub Stats-
   
   ![Github Stats By Tanmay](https://github-readme-stats.vercel.app/api?username=tanmaytoshniwal&show_icons=true&theme=radical)  
 </br>
