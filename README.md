@@ -31,5 +31,6 @@
 
 ⭐️ From [TanmayToshniwal](https://github.com/tanmaytoshniwal)
 
-![image](https://github.com/tanmaytoshniwal/tanmaytoshniwal/blob/master/mario.gif)
+![image](https://github.com/tanmaytoshniwal/tanmaytoshniwal/blob/master/chess.gif)
+
 
